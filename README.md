@@ -53,4 +53,4 @@ The analysis revealed that:
 - Video popularity directly influences user engagement  
 
 ## Note
-Due to file size limitations on GitHub, ه i uploaded a zip file instead.
+Due to file size limitations on GitHub, i uploaded a zip file instead.
