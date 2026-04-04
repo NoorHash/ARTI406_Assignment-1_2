@@ -12,8 +12,8 @@ In this project, the United States dataset (USvideos.csv) was selected to perfor
 
 ## Dataset Size
 The dataset contains approximately:
-- Number of rows: [PUT YOUR ROWS]
-- Number of columns: [PUT YOUR COLUMNS]
+- Number of rows: [48689]
+- Number of columns: [16]
 
 ## Features Description
 - video_id: Unique identifier for each video  
